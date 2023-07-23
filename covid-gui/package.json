@@ -19,7 +19,7 @@
     "@microsoft/applicationinsights-web": "^2.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "recharts": "^1.7.1",
     "es6-object-assign": "^1.1.0",
     "es6-promise-promise": "^1.0.0"
